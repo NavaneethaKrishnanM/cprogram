@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int main(void)
 {
 double number;
 printf("enter the number=");
